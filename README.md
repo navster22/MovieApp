@@ -3,4 +3,3 @@ This is my submission for 30 days of Kotlin program by Google. I have create thi
 
 
 ![](Images/ezgif.com-video-to-gif(1).gif)
-![alt text](https://github.com/navster22/MovieApp/blob/master/ezgif.com-video-to-gif(1).gif?raw=true)
