@@ -47,6 +47,5 @@ class MovieDetailsNetworkDataSource(
             Log.e("MovieDetailsDataSource", e.message)
         }
 
-
     }
 }
